@@ -1,0 +1,58 @@
+﻿
+
+/*1ere page */
+
+
+
+h1{
+	text-align: center;
+	font-size: 40px;
+	
+}
+.menu img {
+	width: 250px;
+	height: 300px;
+	object-fit: contain;
+}
+header {
+	font-size: 48px;
+	color: red;
+	margin:20px;
+}
+
+
+/* 2e page */
+
+body{
+	margin: 0px;
+}
+
+h2{
+	text-align: center;
+	font-size: 24px;
+	
+}
+.b {
+	width: 100%;
+	opacity: 1;
+}
+
+.cadre {
+	padding: 1em;
+	border: 4px solid white;
+	width: 40%;
+	height: 80%;
+	position: absolute;
+	color: white;
+	margin-left: 30%;
+	margin-top: 15%;
+	overflow: hidden;
+	overflow-y: scroll;
+
+}
+.cadre p {
+	text-align: center;
+}
+.partie {
+	font-size: 24px;
+}
